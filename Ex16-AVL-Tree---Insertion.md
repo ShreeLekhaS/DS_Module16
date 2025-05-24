@@ -64,7 +64,7 @@ node * insert(node *T,int x)
 
 ## Output:
 
-![output](img/avlin.png)
+![image](https://github.com/user-attachments/assets/e6e6fb72-3ed6-41d5-ad5d-5dceb04a902b)
 
 ## Result:
 Thus, the function to insert the elements in an AVL Tree is implemented successfully in C programming language.
