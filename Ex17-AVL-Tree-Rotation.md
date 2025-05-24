@@ -1,5 +1,5 @@
 # Ex 4(B) AVL Tree – Rotation
-## DATE:
+## DATE: 02.04.2025
 ## AIM:
 To write a C function to perform right rotation in an AVL Tree.
 
